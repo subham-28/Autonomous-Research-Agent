@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openrouter
+langgraph
+pydantic
+faiss-cpu
+arxiv
+requests
+python-dotenv
