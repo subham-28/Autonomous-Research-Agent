@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-openrouter
+langchain-openai
 langgraph
 pydantic
 faiss-cpu
